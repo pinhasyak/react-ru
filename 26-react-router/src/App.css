@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+/* Used by default with nav link */
+.active {
+  color: lightyellow;
+  text-decoration: none;
+}
+
+a {
+  color: lightblue;
+}
+nav {
+  background-color: darkslategray;
+  padding: 5px;
+}
+nav a {
+  margin: 15px;
+}
+
+.courseLink {
+  font-size: 25px;
+  text-decoration: none;
+}
+.courseLink:hover {
+  text-decoration: underline;
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+  margin: 15px auto;
+}
